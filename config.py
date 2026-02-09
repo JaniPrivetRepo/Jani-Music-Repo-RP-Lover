@@ -24,9 +24,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Vars For API End Pont.
-YTPROXY_URL = getenv("YTPROXY_URL", 'https://tgapi.xbitcode.com') ## xBit Music Endpoint.
-YT_API_KEY = getenv("YT_API_KEY" , 'xbit_2zRb8ED0Z_cdCpcHkrSaS8FzdrHxbWNC') ## Your API key like: xbit_10000000xx0233 Get from  https://t.me/tgmusic_apibot
-
+BASE_URL = getenv("API_URL", 'https://BabyAPI.Pro') 
+API_KEY = getenv('API_KEY', 'ADMINBABYX1C073D754502E7A7D0305725EC0E41F5')
 
 PRIVACY_LINK = getenv("PRIVACY_LINK", "https://telegra.ph/Privacy-Policy-for-YukkiMusic-08-30")
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Selfish_Jani_Lover")
