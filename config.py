@@ -9,17 +9,17 @@ API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
 
 BOT_TOKEN = getenv("BOT_TOKEN")
-OWNER_USERNAME = getenv("OWNER_USERNAME","ll_ISTKHAR_BABY_lll")
-BOT_USERNAME = getenv("BOT_USERNAME" , "Syn_Ixbot")
-BOT_NAME = getenv("BOT_NAME" , "˹sᴏɴᴧʟɪ ꭙ ᴍᴜsɪᴄ˼ ♪ [ ᴛᴘʙ ]™")
-ASSUSERNAME = getenv("ASSUSERNAME" , "ALPHA")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Power_of_Jani")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Power_of_Jani")
+BOT_NAME = getenv("BOT_NAME" , "Jani Music")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Jani")
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1003670001038))
-OWNER_ID = int(getenv("OWNER_ID", 7995626429))
+OWNER_ID = int(getenv("OWNER_ID", 8540437514))
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/JaniPrivetRepo/RP-Lover",)
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/JaniPrivetRepo/Jani-Music-Repo-RP-Lover",)
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
@@ -29,8 +29,8 @@ YT_API_KEY = getenv("YT_API_KEY" , 'xbit_2zRb8ED0Z_cdCpcHkrSaS8FzdrHxbWNC') ## Y
 
 
 PRIVACY_LINK = getenv("PRIVACY_LINK", "https://telegra.ph/Privacy-Policy-for-YukkiMusic-08-30")
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/kriti_bot_update")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/KRITI_SUPPORT_GROUP")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Selfish_Jani_Lover")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+a3O_RK3xMbA1ZGZl")
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "9000"))
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION", "9999999"))
@@ -53,8 +53,8 @@ lyrical = {}
 votemode = {}
 autoclean = []
 confirmer = {}
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/fu6jk3.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/26nzoq.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://litter.catbox.moe/k2zjdk.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://litter.catbox.moe/k2zjdk.jpg")
 PLAYLIST_IMG_URL = "https://files.catbox.moe/f2s4ws.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/z0gh23.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/2y5o3g.jpg"
