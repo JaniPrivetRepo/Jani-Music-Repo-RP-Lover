@@ -39,7 +39,7 @@ telegraph
 unidecode
 yt-dlp
 youtube-search
-youtube-search-python
+#youtube-search-python
 gtts
 git+https://github.com/AsmSafone/SafoneAPI
 lexica-api==1.5.1
@@ -55,4 +55,3 @@ bing_image_downloader
 git+https://github.com/TEAMPURVI/PurviAPI
 googlesearch-python
 sympy
-youtube-search-python
